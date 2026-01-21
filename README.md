@@ -8,4 +8,4 @@ This work is licensed under the [Creative Commons CC BY 4.0 license](https://cre
 - `Table 2.xlsx`  Tulane virus size measured by Dynamic Light Scattering. Volume-based size distribution at 1, 10, and 100 mM CaCl<sub>2</sub> from pH 3.3 to 10.
 - `Table 3.xlsx`  Zeta potential of Tulane virus measured at different pH and ionic strength.
 
-All the files are archived on Zenodo: [https://doi.org/10.5281/zenodo.18327646](https://doi.org/10.5281/zenodo.18327646).
+All the files are archived on Zenodo: [https://doi.org/10.5281/zenodo.18327645](https://doi.org/10.5281/zenodo.18327645).
